@@ -73,7 +73,7 @@ const apiurl = import.meta.env.VITE_API_URL
 
 
  
- <Route path={'/Home'} exact={true} element={<Header/>}/>
+ <Route path={'/'} exact={true} element={<Header/>}/>
  <Route path={'/Product'} exact={true} element={<Products/>}/>
  <Route path={'/Detail'} exact={true} element={<Productdetail/>}/>
  
