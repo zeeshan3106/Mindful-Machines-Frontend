@@ -23,7 +23,7 @@ import LatestProducts from './LatestProducts';
 import AdsBanner2 from './AdsBanner2';
 import FeaturedProducts from './FeaturedProducts';
 import AdsBanner3 from './AdsBanner3';
-
+import logo from './Images/Banners/103.jpg'
 import Blog from './Blog';
 import Benefits from './Benefits';
 import Products from '../../../Pages/Products/Products';
