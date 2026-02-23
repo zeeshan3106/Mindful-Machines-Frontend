@@ -38,7 +38,7 @@ import Feedback from './Pages/Feedback/Feedback'
 import ContactUs from './Pages/ContactUs/contact'
 import FAQ from './Pages/FAQ\'s/FAQ'
 import Cartput from './Pages/CartPut/Cartput'
-import Category from '../../admin/src/Pages/Category/Category'
+
 import ProductsSearch from './Pages/Products/ProductsSearch'
 import ProductItemSearch from './Components/Navabar/Header/ProductItemSearch'
 
